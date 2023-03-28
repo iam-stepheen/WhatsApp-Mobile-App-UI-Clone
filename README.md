@@ -29,7 +29,7 @@ To run the project, ensure you have the following requirements installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/iam-stepheen/WhatsApp-Mobile-App-UI-Clone-.git
+git clone https://github.com/iam-stepheen/WhatsApp-Mobile-App-UI-Clone.git
 Navigate to the project directory:
 
 bash
@@ -51,7 +51,7 @@ Open the Expo app on your device or emulator and scan the QR code displayed in y
 ## Project Structure
 
 ``` bash
-WhatsApp-Mobile-App-UI-Clone-/
+WhatsApp-Mobile-App-UI-Clone/
 ├── root/
 │   ├── components/
 │   ├── store/
