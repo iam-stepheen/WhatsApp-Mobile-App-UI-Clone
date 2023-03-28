@@ -74,10 +74,10 @@ root/constants: Includes default colors.
 ## Components
 The following components are used in the application:
 
-ChatList: Renders a single chat item in the chat list.
-ListCard: Displays a single card used across the app.
-MessageCard: Displays a card for both sent and received messages.
-UI: Holds the checkbox component used across the app.
+- ChatList: Renders a single chat item in the chat list.
+- ListCard: Displays a single card used across the app.
+- MessageCard: Displays a card for both sent and received messages.
+- UI: Holds the checkbox component used across the app.
 
 ## Context
 The application uses React Context to manage global state:
@@ -88,6 +88,6 @@ AppContext: Provides the main application state and functions to manage it.
 
 The navigation structure is managed using Expo Router:
 
-TabNavigator: Handles the bottom tab navigation for "Chats", "Status", "Settings", and "Calls".
-StackNavigator: Manages the stack navigation for screens, such as "Chat", etc.
+- TabNavigator: Handles the bottom tab navigation for "Chats", "Status", "Settings", and "Calls".
+- StackNavigator: Manages the stack navigation for screens, such as "Chat", etc.
 
