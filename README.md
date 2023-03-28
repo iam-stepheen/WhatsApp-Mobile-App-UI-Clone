@@ -64,13 +64,13 @@ WhatsApp-Mobile-App-UI-Clone-/
 └── tsconfig.json
 ```
 
-root/components: Contains reusable components for the application.
-root/store: Holds the application's context providers, hooks, and types.
-store/context: Contains the context providers for the application.
-store/types: Holds the TypeScript interfaces and types for context.
-root/app: Manages the navigation structure of the application.
-root/assets: Contains individual screen images.
-root/constants: Includes default colors.
+- root/components: Contains reusable components for the application.
+- root/store: Holds the application's context providers, hooks, and types.
+- store/context: Contains the context providers for the application.
+- store/types: Holds the TypeScript interfaces and types for context.
+- root/app: Manages the navigation structure of the application.
+- root/assets: Contains individual screen images.
+- root/constants: Includes default colors.
 
 ## Components
 The following components are used in the application:
