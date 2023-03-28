@@ -49,9 +49,9 @@ Open the Expo app on your device or emulator and scan the QR code displayed in y
 
 ``` 
 ## Project Structure
-plaintext
-Copy code
-whatsapp-clone/
+
+``` bash
+WhatsApp-Mobile-App-UI-Clone-/
 ├── root/
 │   ├── components/
 │   ├── store/
@@ -62,6 +62,7 @@ whatsapp-clone/
 │   └── constants/
 ├── package.json
 └── tsconfig.json
+```
 
 root/components: Contains reusable components for the application.
 root/store: Holds the application's context providers, hooks, and types.
