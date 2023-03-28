@@ -47,6 +47,7 @@ Copy code
 npx expo start
 Open the Expo app on your device or emulator and scan the QR code displayed in your terminal.
 
+``` 
 ## Project Structure
 plaintext
 Copy code
