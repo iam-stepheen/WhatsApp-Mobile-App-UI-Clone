@@ -1,0 +1,34 @@
+[
+  {
+    "sender": "Alice",
+    "recipient": "Bob",
+    "timestamp": "2023-03-16T10:15:00",
+    "text": "Hey Bob, how's it going?",
+    "isRead": true,
+    "isSender": true
+  },
+  {
+    "sender": "Bob",
+    "recipient": "Alice",
+    "timestamp": "2023-03-16T10:15:00",
+    "text": "I'm doing well, thanks for asking. How about you?",
+    "isRead": true,
+    "isSender": true
+  },
+  {
+    "sender": "Alice",
+    "recipient": "Bob",
+    "timestamp": "2023-03-16T10:15:00",
+    "text": "I'm good too. Just wanted to check in and see how you were doing.",
+    "isRead": true,
+    "isSender": false
+  },
+  {
+    "sender": "Bob",
+    "recipient": "Alice",
+    "timestamp": "2023-03-16T10:15:00",
+    "text": "I appreciate it. It's always good to hear from you.",
+    "isRead": false,
+    "isSender": false
+  }
+]

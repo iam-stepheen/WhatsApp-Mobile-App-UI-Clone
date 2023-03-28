@@ -1,0 +1,44 @@
+{
+  "user": {
+    "name": "Alice",
+    "avatar": "https://www.example.com/avatar/alice.png"
+  },
+  "chats": [
+    {
+      "contact": {
+        "name": "Ayke Bob",
+        "avatar": "https://www.example.com/avatar/bob.png"
+      },
+      "lastMessage": {
+        "text": "Hey Alice, how's it going?",
+        "timestamp": "2023-03-16T10:20:00",
+        "type": "image",
+        "isRead": true
+      }
+    },
+    {
+      "contact": {
+        "name": "Charlie John",
+        "avatar": "https://www.example.com/avatar/charlie.png"
+      },
+      "lastMessage": {
+        "text": "Can you send me the report ASAP?",
+        "timestamp": "2023-03-16T10:20:00",
+        "type": "text",
+        "isRead": false
+      }
+    },
+    {
+      "contact": {
+        "name": "Stephen Ok",
+        "avatar": "https://www.example.com/avatar/charlie.png"
+      },
+      "lastMessage": {
+        "text": "Can you send me the report ASAP?",
+        "timestamp": "2023-03-16T10:20:00",
+        "type": "recording",
+        "isRead": false
+      }
+    }
+  ]
+}

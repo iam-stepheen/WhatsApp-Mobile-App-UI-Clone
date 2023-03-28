@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "whatsapp",
+    "slug": "whatsapp",
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow whatsappclone to access your camera."
+        }
+      ]
+    ]
+  }
+}
