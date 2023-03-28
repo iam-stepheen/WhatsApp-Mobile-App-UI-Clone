@@ -84,7 +84,7 @@ The application uses React Context to manage global state:
 
 AppContext: Provides the main application state and functions to manage it.
 
-##Navigation
+## Navigation
 
 The navigation structure is managed using Expo Router:
 
